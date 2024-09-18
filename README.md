@@ -7,17 +7,13 @@ This project implements a system to detect and count unique humans in video foot
 ### Tracking: Utilizes tracking algorithms to maintain identity across frames.
 
 ## Requirements
-Python 3.6 or higher
-OpenCV
-NumPy
-SciPy
-Matplotlib
-Imutils
-You can install the required Python packages using pip:
++ Python 3.6 or higher
++ OpenCV
++ NumPy
++ SciPy
++ Matplotlib
++ Imutils
 
-bash
-Copy code
-pip install opencv-python-headless numpy scipy matplotlib imutils
 ## Model Files
 Ensure you have the following model files:
 
