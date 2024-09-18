@@ -24,4 +24,5 @@ Ensure you have the following model files:
 + yolov3.weights - Pre-trained YOLOv3 weights.
 + yolov3.cfg - YOLOv3 configuration file.
 + coco.names - File containing the class labels for YOLO (e.g., person).
+
 Download these files from the YOLO website or the official YOLO repository.
